@@ -1,1 +1,1 @@
-# Sagemaker_course
+# AWS Sagemaker Projects
